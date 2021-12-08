@@ -1,0 +1,9 @@
+.TodoList-container{
+    margin: 0;
+    padding: 0 0 56px 0;
+    list-style: none;
+    width: 100%;
+    height: 67vh;
+    background: #EEEEEE;;
+    border-radius: 25px 25px 0px 0px;
+}

@@ -1,5 +1,10 @@
 body {
   margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    193.52deg,#0E333C 5.42%,rgba(14,15,60,.6) 113.03%),#0E333C;
+    ;
+  color:#1E1E1F;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

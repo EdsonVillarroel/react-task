@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -14,14 +16,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /* background: #0E333C; */
+  background: linear-gradient(
+193.52deg,#0E333C 5.42%,rgba(14,15,60,.6) 113.03%),#0E333C;
+
+
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  /* font-size: calc(10px + 2vmin); */
+  /* color: white; */
 }
 
 .App-link {
